@@ -11,3 +11,6 @@ Tools:
   - list installable versions: `solc-select versions`
   - installation path: `$HOME/.solc-select/`
 
+Links:
+------
+- https://github.com/crytic/building-secure-contracts
