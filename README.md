@@ -22,3 +22,4 @@ Tools:
 Links:
 ------
 - https://github.com/crytic/building-secure-contracts
+- https://hackmd.io/@ChiHaoLu/HymtJS_oF sol contract note
